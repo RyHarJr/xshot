@@ -33,9 +33,9 @@ B=$r'['$y'+'$r'] '
 # path
 camera_path="/sdcard/DCIM/Camera"
 screenshots_path="/sdcard/DCIM/Screenshots"
-camera_backup="${camera_path}/Screenshot/backup"
-screenshots_backup="${screenshots_path}/Screenshot/backup"
-manual_backup="/sdcard/DCIM/Screenshot/backup"
+camera_backup="${camera_path}/backup"
+screenshots_backup="${screenshots_path}/backup"
+manual_backup="/sdcard/DCIM/backup"
 # style
 #titlebar
 convert_titlebar="yes"
